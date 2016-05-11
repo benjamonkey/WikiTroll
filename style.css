@@ -1,0 +1,45 @@
+.intro {
+  background: #66b3ff;
+  width: 90vw;
+  height: 20vh;
+  margin: auto;
+  font-size: 19px;
+  padding: 15px;
+  border-radius: 8%;
+}
+#welcome {
+  float: right;
+  font-weight: bold;
+}
+.picture-section {
+  width: 87vw;
+  height: 50vh;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: space-around;
+  padding: 5px;
+  margin: auto;
+  max-width: 800px;
+
+}
+.picture-section img {
+  height: 150px;
+  width: 175px;
+  padding: 2px;
+}
+body {
+  background: #99ccff;
+}
+.main-footer {
+
+  height: 10px;
+  width: 90vw;
+  padding-top: 150px;
+  text-align: center;
+}
+.motto {
+  text-decoration: overline;
+  color: black;
+  font-weight: bold;
+
+}
